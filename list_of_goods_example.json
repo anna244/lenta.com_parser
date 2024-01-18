@@ -1,0 +1,1106 @@
+{
+  "skus": [
+    {
+      "averageRating": 3.9,
+      "commentsCount": 1349,
+      "promoPercent": 0,
+      "promoId": null,
+      "placeOutput": "Catalog",
+      "priceByPromocode": null,
+      "code": "152153",
+      "title": "Креветки Королевские свежемороженые, в панцире с головой, весовые",
+      "brand": "Прочие Товары",
+      "subTitle": "Россия ",
+      "description": "Креветки VICI Королевские – крупные тепловодные креветки, которые распространены в водах Тихого и Индийского океанов. Тепловодные креветки отличаются большим размером и плотным мясом. Мясо креветок отличается низким содержанием жира, оно богато протеином и кальцием, содержит минеральные соли и белки.",
+      "regularPrice": 671.49,
+      "discountPrice": 637.89,
+      "isShowOnePrice": false,
+      "offerDescription": "",
+      "promoType": "None",
+      "validityStartDate": "2023-11-22T20:00:00Z",
+      "validityEndDate": "2024-02-14T20:00:00Z",
+      "image": {
+        "thumbnail": "https://lenta.servicecdn.ru/globalassets/1/-/15/21/53/271431_2.png?preset=thumbnail",
+        "medium": "https://lenta.servicecdn.ru/globalassets/1/-/15/21/53/271431_2.png?preset=medium",
+        "fullSize": "https://lenta.servicecdn.ru/globalassets/1/-/15/21/53/271431_2.png?preset=fullsize",
+        "mediumLossy": "https://lenta.servicecdn.ru/globalassets/1/-/15/21/53/271431_2.png?preset=mediumlossy"
+      },
+      "images": [
+        {
+          "thumbnail": "https://lenta.servicecdn.ru/globalassets/1/-/15/21/53/271431_2.png?preset=thumbnail",
+          "medium": "https://lenta.servicecdn.ru/globalassets/1/-/15/21/53/271431_2.png?preset=medium",
+          "fullSize": "https://lenta.servicecdn.ru/globalassets/1/-/15/21/53/271431_2.png?preset=fullsize",
+          "mediumLossy": "https://lenta.servicecdn.ru/globalassets/1/-/15/21/53/271431_2.png?preset=mediumlossy"
+        }
+      ],
+      "stampsPrice": null,
+      "webUrl": "https://lenta.com/product/krevetki-korolevskie-v-pancire-sg-vm-ves-rossiya-1kg-152153/",
+      "orderLimit": 2,
+      "orderSteps": [
+        1.0
+      ],
+      "skuWeight": 0.00,
+      "skuDryWeight": null,
+      "isAvailableForOrder": true,
+      "isAvailableForDelivery": true,
+      "isAvailableForDeliveryForPro": false,
+      "isWeightProduct": true,
+      "stock": "Many",
+      "categories": {
+        "group": {
+          "code": "g523853c00788bbb520b022c130d1ae92",
+          "name": "Рыба и морепродукты"
+        },
+        "category": {
+          "code": "ccde9caf8a1f7bd9e333b1569241dad5d",
+          "name": "Замороженная рыба и морепродукты"
+        },
+        "subcategory": {
+          "code": "s96f2fb101ba6c8ee33192f3932386745",
+          "name": "Креветки и ракообразные"
+        }
+      },
+      "badges": []
+    },
+    {
+      "averageRating": 4.3,
+      "commentsCount": 172,
+      "promoPercent": 23,
+      "promoId": "ADEH143P39|2023",
+      "placeOutput": "Catalog",
+      "priceByPromocode": null,
+      "code": "600223",
+      "title": "Сыр полутвердый ЛАМБЕР 50% полшара, без змж, весовой",
+      "brand": "ЛАМБЕР",
+      "subTitle": "Россия ",
+      "description": "Сыр ЛАМБЕР – это настоящий сыр, производимый из натурального молока. Именно поэтому он такой вкусный, и каждый его кусочек 30г содержит столько же белка, сколько целый стакан молока. Сыр изготовлен из 100% натурального молока, имеет классический сливочный вкус. Не содержит растительных жиров, трансжиров и заменителей молочного жира. Сыр Ламбер хорош как самостоятельное блюдо, а также для приготовления бутербродов, закусок, холодных и горячих блюд. Импровизируйте и наслаждайтесь!",
+      "regularPrice": 1126.39,
+      "discountPrice": 859.99,
+      "isShowOnePrice": false,
+      "offerDescription": "-23%",
+      "promoType": "PromoByCard",
+      "validityStartDate": "2023-11-23T20:00:00Z",
+      "validityEndDate": "2024-01-24T20:00:00Z",
+      "image": {
+        "thumbnail": "https://lenta.servicecdn.ru/globalassets/1/-/60/02/23/405413_2.png?preset=thumbnail",
+        "medium": "https://lenta.servicecdn.ru/globalassets/1/-/60/02/23/405413_2.png?preset=medium",
+        "fullSize": "https://lenta.servicecdn.ru/globalassets/1/-/60/02/23/405413_2.png?preset=fullsize",
+        "mediumLossy": "https://lenta.servicecdn.ru/globalassets/1/-/60/02/23/405413_2.png?preset=mediumlossy"
+      },
+      "images": [
+        {
+          "thumbnail": "https://lenta.servicecdn.ru/globalassets/1/-/60/02/23/405413_2.png?preset=thumbnail",
+          "medium": "https://lenta.servicecdn.ru/globalassets/1/-/60/02/23/405413_2.png?preset=medium",
+          "fullSize": "https://lenta.servicecdn.ru/globalassets/1/-/60/02/23/405413_2.png?preset=fullsize",
+          "mediumLossy": "https://lenta.servicecdn.ru/globalassets/1/-/60/02/23/405413_2.png?preset=mediumlossy"
+        }
+      ],
+      "stampsPrice": null,
+      "webUrl": "https://lenta.com/product/syr-lamber-ptv-50-polshara-bez-zmzh-ves-rossiya-600223/",
+      "orderLimit": null,
+      "orderSteps": [
+        0.5,
+        0.6
+      ],
+      "skuWeight": 0.00,
+      "skuDryWeight": null,
+      "isAvailableForOrder": true,
+      "isAvailableForDelivery": true,
+      "isAvailableForDeliveryForPro": false,
+      "isWeightProduct": true,
+      "stock": "Many",
+      "categories": {
+        "group": {
+          "code": "g604e486481b04594c32002c67a2b459a",
+          "name": "Молоко, сыр, яйцо"
+        },
+        "category": {
+          "code": "c942fa267791d7e901389dd190d160fde",
+          "name": "Сыр"
+        },
+        "subcategory": {
+          "code": "s1308e5769d3fb4d3f74ef31e7119fa6d",
+          "name": "Эдам, Гауда, Тильзитер"
+        }
+      },
+      "badges": []
+    },
+    {
+      "averageRating": 4.3,
+      "commentsCount": 212,
+      "promoPercent": 0,
+      "promoId": null,
+      "placeOutput": "Catalog",
+      "priceByPromocode": null,
+      "code": "554261",
+      "title": "Лосось 1–3кг, замороженный, весовой",
+      "brand": "Прочие Товары",
+      "subTitle": "Чили ",
+      "description": "Мясо лосося содержит большое количество белка и «полезного» жира (то есть, ненасыщенных кислот, положительно влияющих на уровень жира в крови). Жир, содержащийся в лососе, разжижает кровь, подобно аспирину и защищает артерии. Регулярное употребление лосося насыщает организм витаминами D и B12. Кроме этих витаминов, в нем содержатся также витамины A, B1, B2, C, E и PP. В лососевом мясе много калия, цинка, молибдена, фосфора, хрома, фтора, железа, магния.",
+      "regularPrice": 1263.19,
+      "discountPrice": 1199.99,
+      "isShowOnePrice": false,
+      "offerDescription": "",
+      "promoType": "None",
+      "validityStartDate": "2023-11-22T20:00:00Z",
+      "validityEndDate": "2024-02-14T20:00:00Z",
+      "image": {
+        "thumbnail": "https://lenta.servicecdn.ru/globalassets/1/-/55/42/61/348659_2.png?preset=thumbnail",
+        "medium": "https://lenta.servicecdn.ru/globalassets/1/-/55/42/61/348659_2.png?preset=medium",
+        "fullSize": "https://lenta.servicecdn.ru/globalassets/1/-/55/42/61/348659_2.png?preset=fullsize",
+        "mediumLossy": "https://lenta.servicecdn.ru/globalassets/1/-/55/42/61/348659_2.png?preset=mediumlossy"
+      },
+      "images": [
+        {
+          "thumbnail": "https://lenta.servicecdn.ru/globalassets/1/-/55/42/61/348659_2.png?preset=thumbnail",
+          "medium": "https://lenta.servicecdn.ru/globalassets/1/-/55/42/61/348659_2.png?preset=medium",
+          "fullSize": "https://lenta.servicecdn.ru/globalassets/1/-/55/42/61/348659_2.png?preset=fullsize",
+          "mediumLossy": "https://lenta.servicecdn.ru/globalassets/1/-/55/42/61/348659_2.png?preset=mediumlossy"
+        }
+      ],
+      "stampsPrice": null,
+      "webUrl": "https://lenta.com/product/losos-prochie-tovary-1-3-kg-zam-chili-ves-chili-554261/",
+      "orderLimit": null,
+      "orderSteps": [
+        3.0,
+        4.0
+      ],
+      "skuWeight": 0.00,
+      "skuDryWeight": null,
+      "isAvailableForOrder": true,
+      "isAvailableForDelivery": true,
+      "isAvailableForDeliveryForPro": false,
+      "isWeightProduct": true,
+      "stock": "Many",
+      "categories": {
+        "group": {
+          "code": "g523853c00788bbb520b022c130d1ae92",
+          "name": "Рыба и морепродукты"
+        },
+        "category": {
+          "code": "ccde9caf8a1f7bd9e333b1569241dad5d",
+          "name": "Замороженная рыба и морепродукты"
+        },
+        "subcategory": {
+          "code": "s20af26fa49a9fc457ed8f9a855bd9466",
+          "name": "Лососевая рыба"
+        }
+      },
+      "badges": []
+    },
+    {
+      "averageRating": 4.3,
+      "commentsCount": 1071,
+      "promoPercent": 0,
+      "promoId": null,
+      "placeOutput": "Catalog",
+      "priceByPromocode": null,
+      "code": "422842",
+      "title": "Шея свиная бескостная, весовая",
+      "brand": "ЛЕНТА FRESH",
+      "subTitle": "Россия ",
+      "description": "Шея свиная бескостная производится из отборного мяса. Шейку тушат с овощами, запекают или жарят на сковороде. Кроме того, из нее получается сочный и мягкий шашлык.",
+      "regularPrice": 515.79,
+      "discountPrice": 489.99,
+      "isShowOnePrice": false,
+      "offerDescription": "",
+      "promoType": "None",
+      "validityStartDate": "2023-11-22T20:00:00Z",
+      "validityEndDate": "2023-12-13T20:00:00Z",
+      "image": {
+        "thumbnail": "https://lenta.servicecdn.ru/globalassets/1/-/42/28/42/378761.png?preset=thumbnail",
+        "medium": "https://lenta.servicecdn.ru/globalassets/1/-/42/28/42/378761.png?preset=medium",
+        "fullSize": "https://lenta.servicecdn.ru/globalassets/1/-/42/28/42/378761.png?preset=fullsize",
+        "mediumLossy": "https://lenta.servicecdn.ru/globalassets/1/-/42/28/42/378761.png?preset=mediumlossy"
+      },
+      "images": [
+        {
+          "thumbnail": "https://lenta.servicecdn.ru/globalassets/1/-/42/28/42/378761.png?preset=thumbnail",
+          "medium": "https://lenta.servicecdn.ru/globalassets/1/-/42/28/42/378761.png?preset=medium",
+          "fullSize": "https://lenta.servicecdn.ru/globalassets/1/-/42/28/42/378761.png?preset=fullsize",
+          "mediumLossy": "https://lenta.servicecdn.ru/globalassets/1/-/42/28/42/378761.png?preset=mediumlossy"
+        },
+        {
+          "thumbnail": "https://lenta.servicecdn.ru/globalassets/1/-/42/28/42/323245_8.png?preset=thumbnail",
+          "medium": "https://lenta.servicecdn.ru/globalassets/1/-/42/28/42/323245_8.png?preset=medium",
+          "fullSize": "https://lenta.servicecdn.ru/globalassets/1/-/42/28/42/323245_8.png?preset=fullsize",
+          "mediumLossy": "https://lenta.servicecdn.ru/globalassets/1/-/42/28/42/323245_8.png?preset=mediumlossy"
+        },
+        {
+          "thumbnail": "https://lenta.servicecdn.ru/globalassets/1/-/42/28/42/526768.png?preset=thumbnail",
+          "medium": "https://lenta.servicecdn.ru/globalassets/1/-/42/28/42/526768.png?preset=medium",
+          "fullSize": "https://lenta.servicecdn.ru/globalassets/1/-/42/28/42/526768.png?preset=fullsize",
+          "mediumLossy": "https://lenta.servicecdn.ru/globalassets/1/-/42/28/42/526768.png?preset=mediumlossy"
+        }
+      ],
+      "stampsPrice": null,
+      "webUrl": "https://lenta.com/product/svinina-lenta-fresh-sp-sheya-bez-kosti-kusok-ohlazhdennyjj-ves-rossiya-422842/",
+      "orderLimit": null,
+      "orderSteps": [
+        1.0,
+        1.5,
+        2.0
+      ],
+      "skuWeight": 0.00,
+      "skuDryWeight": 0.00,
+      "isAvailableForOrder": true,
+      "isAvailableForDelivery": true,
+      "isAvailableForDeliveryForPro": false,
+      "isWeightProduct": true,
+      "stock": "Many",
+      "categories": {
+        "group": {
+          "code": "gd6dd9b5e854cf23f28aa622863dd6913",
+          "name": "Мясо, птица, колбаса"
+        },
+        "category": {
+          "code": "c627fa9f2faa4669b4a70b29eadd52df6",
+          "name": "Мясо охлажденное"
+        },
+        "subcategory": {
+          "code": "s180fe74541825a4193947581e015b91d",
+          "name": "Свинина охлажденная"
+        }
+      },
+      "badges": []
+    },
+    {
+      "averageRating": 4.5,
+      "commentsCount": 2007,
+      "promoPercent": 0,
+      "promoId": null,
+      "placeOutput": "Catalog",
+      "priceByPromocode": null,
+      "code": "423767",
+      "title": "Карбонад из свинины бескостный крупнокусковой, весовой",
+      "brand": "ЛЕНТА FRESH",
+      "subTitle": "Россия ",
+      "description": "Крупнокусковой свиной карбонад – это охлажденный бескостный мясной \r\nполуфабрикат высокого качества. Приготовленные из \r\nкарбонада блюда имеют насыщенный мясной вкус и обладают приятным \r\nароматом.",
+      "regularPrice": 484.29,
+      "discountPrice": 459.99,
+      "isShowOnePrice": false,
+      "offerDescription": "",
+      "promoType": "None",
+      "validityStartDate": "2023-11-23T20:00:00Z",
+      "validityEndDate": "2023-12-13T20:00:00Z",
+      "image": {
+        "thumbnail": "https://lenta.servicecdn.ru/globalassets/1/-/42/37/67/424496_1.png?preset=thumbnail",
+        "medium": "https://lenta.servicecdn.ru/globalassets/1/-/42/37/67/424496_1.png?preset=medium",
+        "fullSize": "https://lenta.servicecdn.ru/globalassets/1/-/42/37/67/424496_1.png?preset=fullsize",
+        "mediumLossy": "https://lenta.servicecdn.ru/globalassets/1/-/42/37/67/424496_1.png?preset=mediumlossy"
+      },
+      "images": [
+        {
+          "thumbnail": "https://lenta.servicecdn.ru/globalassets/1/-/42/37/67/424496_1.png?preset=thumbnail",
+          "medium": "https://lenta.servicecdn.ru/globalassets/1/-/42/37/67/424496_1.png?preset=medium",
+          "fullSize": "https://lenta.servicecdn.ru/globalassets/1/-/42/37/67/424496_1.png?preset=fullsize",
+          "mediumLossy": "https://lenta.servicecdn.ru/globalassets/1/-/42/37/67/424496_1.png?preset=mediumlossy"
+        }
+      ],
+      "stampsPrice": null,
+      "webUrl": "https://lenta.com/product/svinina-lenta-fresh-sp-karbonad-bez-kosti-kusok-ohlazhdennyjj-ves-rossiya-423767/",
+      "orderLimit": null,
+      "orderSteps": [
+        1.0
+      ],
+      "skuWeight": 0.00,
+      "skuDryWeight": 0.00,
+      "isAvailableForOrder": true,
+      "isAvailableForDelivery": true,
+      "isAvailableForDeliveryForPro": false,
+      "isWeightProduct": true,
+      "stock": "Many",
+      "categories": {
+        "group": {
+          "code": "gd6dd9b5e854cf23f28aa622863dd6913",
+          "name": "Мясо, птица, колбаса"
+        },
+        "category": {
+          "code": "c627fa9f2faa4669b4a70b29eadd52df6",
+          "name": "Мясо охлажденное"
+        },
+        "subcategory": {
+          "code": "s180fe74541825a4193947581e015b91d",
+          "name": "Свинина охлажденная"
+        }
+      },
+      "badges": []
+    }
+  ],
+  "total": 27735,
+  "isFiltersAvailable": false,
+  "tagCategories": [
+    {
+      "name": "Ёлки",
+      "nodeCode": "c6e2412e28ef3b1f86a0cc8d9eb68b4a7"
+    },
+    {
+      "name": "Ёлочные украшения",
+      "nodeCode": "ce9016382fe6c31f446b84bc1d082b908"
+    },
+    {
+      "name": "Карнавальные костюмы",
+      "nodeCode": "c9aada5058fff4c2195f68c99a1fe8fef"
+    },
+    {
+      "name": "Сопутствующие товары",
+      "nodeCode": "c2ff0cb356acacb83dfa06e2b2c6b4d18"
+    },
+    {
+      "name": "Сувенирная продукция",
+      "nodeCode": "ca92bbc352830885745421ee93e063f99"
+    },
+    {
+      "name": "Электрогирлянды и освещение",
+      "nodeCode": "ca3bee0955d8e4d1c3528f902917821ef"
+    },
+    {
+      "name": "Вино",
+      "nodeCode": "ca36224e8c82be1181aad8835310555bf"
+    },
+    {
+      "name": "Игристое вино",
+      "nodeCode": "c529e2e61ea65b2c9f45b32b62d75a0b5"
+    },
+    {
+      "name": "Изысканный выбор",
+      "nodeCode": "c02da8446348220cb398bc0724fe630af"
+    },
+    {
+      "name": "Десертные вина",
+      "nodeCode": "c95dd35572e56e1a1bea8ef16f1640ff0"
+    },
+    {
+      "name": "Вермуты",
+      "nodeCode": "c5a9adffd31b3fdf7af0a1a1bf01051ea"
+    },
+    {
+      "name": "Крепкий алкоголь",
+      "nodeCode": "cb035a0f82458d909753a402d2a1027c0"
+    },
+    {
+      "name": "Пиво и слабый алкоголь",
+      "nodeCode": "cf3f44a30e16ccba06ddf8e02dc4049b8"
+    },
+    {
+      "name": "Кулинария \"Лента\"",
+      "nodeCode": "ca2e4c65b74f82e034dcec30768fea768"
+    },
+    {
+      "name": "Хлеб собственного производства",
+      "nodeCode": "c1745106f1943043553588be22bc774fb"
+    },
+    {
+      "name": "Выпечка собственного производства",
+      "nodeCode": "c305328d88009992f5c884d1f3c9a6165"
+    },
+    {
+      "name": "Напитки собственного производства",
+      "nodeCode": "c579aa1e623acf0a8c7f9fd10d2d3b284"
+    },
+    {
+      "name": "Продукция быстрого питания \"Лента\"",
+      "nodeCode": "c5412938e5948fbddaf439df8cba86aae"
+    },
+    {
+      "name": "Овощи",
+      "nodeCode": "c91fd052f32c0d55c15854c3d4ffdc08a"
+    },
+    {
+      "name": "Фрукты",
+      "nodeCode": "cbff92cb6879709d2268c395962fd9a30"
+    },
+    {
+      "name": "Ягоды",
+      "nodeCode": "cab9df277073ffc8eefc0f3a5b95e10d7"
+    },
+    {
+      "name": "Грибы",
+      "nodeCode": "c39a84a39fc7d3f902373b38fffcb6883"
+    },
+    {
+      "name": "Мясо охлажденное",
+      "nodeCode": "c627fa9f2faa4669b4a70b29eadd52df6"
+    },
+    {
+      "name": "Курица",
+      "nodeCode": "c910d084d5e55325e863db0b9688c5b82"
+    },
+    {
+      "name": "Индейка",
+      "nodeCode": "cf0349a2de3bac83f8d359ff8b960c798"
+    },
+    {
+      "name": "Прочая птица",
+      "nodeCode": "c45dcb2a49df0de64bc25d7170fb19c33"
+    },
+    {
+      "name": "Колбасные изделия",
+      "nodeCode": "c442229cfe4d5e6376c08a86b5ee15bbb"
+    },
+    {
+      "name": "Замороженное мясо",
+      "nodeCode": "c872286df8e57f1897bfd58844a44b576"
+    },
+    {
+      "name": "Продукты мясной переработки",
+      "nodeCode": "c57d03d23a916e2f4059e88558d8180fc"
+    },
+    {
+      "name": "Замороженная птица",
+      "nodeCode": "c1123cc4c5033b5a2f6a8522ceaeef2d4"
+    },
+    {
+      "name": "Мясные продукты собственного производства",
+      "nodeCode": "c26f62cd4563c17614b0da7e4f11759f8"
+    },
+    {
+      "name": "Мясная гастрономия",
+      "nodeCode": "c357256acff244a07db981c638ced06eb"
+    },
+    {
+      "name": "Молочная продукция",
+      "nodeCode": "cb34be3fde93d1c99edeb397ffc602e33"
+    },
+    {
+      "name": "Сыр",
+      "nodeCode": "c942fa267791d7e901389dd190d160fde"
+    },
+    {
+      "name": "Масло, маргарин, спред",
+      "nodeCode": "cd895b8f9066d5a4b1ab41f1e6f5a3d39"
+    },
+    {
+      "name": "Яйца",
+      "nodeCode": "cacbdc9c0ad2ec7a6458b3dbc1429fdf4"
+    },
+    {
+      "name": "Фермерские молочные продукты",
+      "nodeCode": "c19511c02a7636b451837102c4c3ee439"
+    },
+    {
+      "name": "Выпечка",
+      "nodeCode": "c6d3329650e42ff2739a90efd2c53186e"
+    },
+    {
+      "name": "Хлеб",
+      "nodeCode": "c73501c4df1def0d22a33e09910496e30"
+    },
+    {
+      "name": "Хлебобулочные  изделия",
+      "nodeCode": "cb7f951514d02ae8184d1b2b01c2e6d99"
+    },
+    {
+      "name": "Макаронные изделия",
+      "nodeCode": "c06f40c7225a977517976b6d48028f8bd"
+    },
+    {
+      "name": "Крупы",
+      "nodeCode": "cc32d51c7a4c8b7bd6c6cc52f2ee5a258"
+    },
+    {
+      "name": "Все для выпечки",
+      "nodeCode": "c9eb9579412f9c0afa85be75bc6fff477"
+    },
+    {
+      "name": "Заправки, соусы",
+      "nodeCode": "cc8c2dbd08ee953280a53fa2ef7839ff5"
+    },
+    {
+      "name": "Консервация",
+      "nodeCode": "c286705456d021826f010eb5384381637"
+    },
+    {
+      "name": "Сахар, соль",
+      "nodeCode": "c0143e1f29e60b2977c37dfb9ac332442"
+    },
+    {
+      "name": "Приправы, специи",
+      "nodeCode": "c15c0d0c3c802c91f1ac74a472ae2556f"
+    },
+    {
+      "name": "Чипсы, сухарики, снеки",
+      "nodeCode": "c749a2caa4b0ace1e3cbb7b50832c0922"
+    },
+    {
+      "name": "Сухофрукты, орехи, семечки",
+      "nodeCode": "c45fc27d864a1a4764c03a70715f8b89d"
+    },
+    {
+      "name": "Продукты быстрого приготовления",
+      "nodeCode": "ccdd6a8d1110db4b3aaca811e1ca84dda"
+    },
+    {
+      "name": "Продукты для завтрака",
+      "nodeCode": "c2b7a9264c2a938e4b3d451d7ada775ec"
+    },
+    {
+      "name": "Продукты национальной кухни",
+      "nodeCode": "cef4e43d50d5ef40d9fd1bb4bd1495adf"
+    },
+    {
+      "name": "Охлажденная и переработанная рыбная продукция",
+      "nodeCode": "c2df3ac05666128909dae77aa664ae518"
+    },
+    {
+      "name": "Замороженная рыба и морепродукты",
+      "nodeCode": "ccde9caf8a1f7bd9e333b1569241dad5d"
+    },
+    {
+      "name": "Готовая рыбная продукция",
+      "nodeCode": "cf623c45df3113a9bf88dd1fd0361aaba"
+    },
+    {
+      "name": "Деликатесы из рыбы и морепродуктов",
+      "nodeCode": "cacb529a8fdc6eefb1079a0ec8ee5e2ae"
+    },
+    {
+      "name": "Деликатесы из рыбы и морепродуктов в рассоле/масле",
+      "nodeCode": "cf11bf78c773a8a2508c2ad3b336363d4"
+    },
+    {
+      "name": "Икра",
+      "nodeCode": "cac69eaac7ffcebaac2ac6429453d7fac"
+    },
+    {
+      "name": "Пельмени, манты, хинкали",
+      "nodeCode": "c0a5bf36ad657c9289bc2cacf25be9f18"
+    },
+    {
+      "name": "Полуфабрикаты",
+      "nodeCode": "cf9f88e830dec0e837b2c4eea3424a984"
+    },
+    {
+      "name": "Мороженое",
+      "nodeCode": "cb7b89a8a14d6f006623fa23a769890c9"
+    },
+    {
+      "name": "Блины, вареники, сырники",
+      "nodeCode": "ccdf8fc567035eaf0b9da580f71fdb3f2"
+    },
+    {
+      "name": "Замороженные кондитерские изделия",
+      "nodeCode": "c04bed23de6ea74da811d8b3901e631b0"
+    },
+    {
+      "name": "Готовые блюда",
+      "nodeCode": "ca23a90c4019f0d6dacc1351ea49a38e5"
+    },
+    {
+      "name": "Фрукты, овощи, грибы",
+      "nodeCode": "cb9d9ff490680c6bea1f414ba531567e3"
+    },
+    {
+      "name": "Конфеты",
+      "nodeCode": "c92f0528bf39564079a3d9305b5c524cc"
+    },
+    {
+      "name": "Шоколад",
+      "nodeCode": "c00d0ea32164a4d7b8bf7912ad946cf90"
+    },
+    {
+      "name": "Торты, пирожные и десерты",
+      "nodeCode": "c19a326e9069042ff75fe623756e36929"
+    },
+    {
+      "name": "Зефир, мармелад, восточные сладости",
+      "nodeCode": "c7f7546e0d7a97cf91ed8c1c7c8e7e59a"
+    },
+    {
+      "name": "Мучные кондитерские изделия",
+      "nodeCode": "c1944b90e5f6b02d46a0ea94019f7578c"
+    },
+    {
+      "name": "Жевательная резинка",
+      "nodeCode": "c1fc009d1e15a046f1063b90570c3006f"
+    },
+    {
+      "name": "Кондитерские изделия собственного производства",
+      "nodeCode": "c890dece582c6774b0f9ca6eeda331f84"
+    },
+    {
+      "name": "Сезонные кондитерские изделия",
+      "nodeCode": "c209bbb8345a9c55ea09d84c3dc029834"
+    },
+    {
+      "name": "Кофе",
+      "nodeCode": "cd035b29dbdb122870f41562b786951ff"
+    },
+    {
+      "name": "Чай",
+      "nodeCode": "c7124c142f7b45b83ccd88c0c4f4deec1"
+    },
+    {
+      "name": "Какао и горячий шоколад",
+      "nodeCode": "c7661bce1346fa46d2afbaebf32c0c17c"
+    },
+    {
+      "name": "Вода и холодный чай",
+      "nodeCode": "cc5a6d03e32bd3653d85301a756860087"
+    },
+    {
+      "name": "Лимонады и квасы",
+      "nodeCode": "ca5b5f9a256934da5af0698aa51fee890"
+    },
+    {
+      "name": "Соки, нектары, морсы",
+      "nodeCode": "c5399ed108171ab1186146bfd3e30f308"
+    },
+    {
+      "name": "Энергетики  и спортивные напитки",
+      "nodeCode": "cbd8af22488a05404effdcbd3ca06fd6b"
+    },
+    {
+      "name": "Холодный кофе",
+      "nodeCode": "cf04fc3910a325c0156a8c8c0aa2fa6a3"
+    },
+    {
+      "name": "Аксессуары для ванной и туалета",
+      "nodeCode": "cfedcfee72ba073dd844d3a690138c341"
+    },
+    {
+      "name": "Инструменты и товары DIY",
+      "nodeCode": "c38b54d3cec8f833e9405ec6cc8a14782"
+    },
+    {
+      "name": "Лампочки, элементы питания",
+      "nodeCode": "c505c4206ebb875c7fe0f5ed6799f6281"
+    },
+    {
+      "name": "Одноразовая посуда и салфетки",
+      "nodeCode": "ca482dbefde53b1d7fd96eaa94cc7919f"
+    },
+    {
+      "name": "Принадлежности по уходу за одеждой",
+      "nodeCode": "cb76f5388d11e598165495602d5f7e5f0"
+    },
+    {
+      "name": "Товары для уборки и хранения",
+      "nodeCode": "c5bcfce965c3f981ec06a60871d1df20b"
+    },
+    {
+      "name": "Товары к праздникам и упаковка подарков",
+      "nodeCode": "cb5fe1362dfa3dc9ddbd765cac9805ea3"
+    },
+    {
+      "name": "Хозяйственные товары",
+      "nodeCode": "cd71a8e017b75622ee38d6ceeb005e03f"
+    },
+    {
+      "name": "Туалетная бумага и бумажные полотенца",
+      "nodeCode": "cac1a6c37d5c6f3f644f3d8dfe861621c"
+    },
+    {
+      "name": "Пластиковая посуда",
+      "nodeCode": "c7f6fa5deb96d51068f6139bf9953ffa0"
+    },
+    {
+      "name": "Посуда для готовки",
+      "nodeCode": "c86e2f991be9ff5eb0abb2cf4a21d9260"
+    },
+    {
+      "name": "Столовая посуда",
+      "nodeCode": "c78a1bd5358745deaf0583026a51f93ef"
+    },
+    {
+      "name": "Фильтрация воды",
+      "nodeCode": "c5e90892049109ef58ce3ce94b4e0794a"
+    },
+    {
+      "name": "Посуда для напитков",
+      "nodeCode": "c6909ef5a1c6ae81258daca97d1561790"
+    },
+    {
+      "name": "Детская безопасность",
+      "nodeCode": "cf3386065dd906c0a7642b775fdbf2a2a"
+    },
+    {
+      "name": "Детская гигиена",
+      "nodeCode": "c365a4b7794e8935c0660445d74e830c2"
+    },
+    {
+      "name": "Детская посуда",
+      "nodeCode": "c4a8fa1ad71da3ab008ad8636dd9ae03c"
+    },
+    {
+      "name": "Детские книги",
+      "nodeCode": "cc0aaa6362695448fb94464c2029dc53d"
+    },
+    {
+      "name": "Детские напитки",
+      "nodeCode": "cbf2387dbad19ac27224d6370bff73871"
+    },
+    {
+      "name": "Детское питание",
+      "nodeCode": "c565ed80964136a0374429fdc4d59ff8b"
+    },
+    {
+      "name": "Игрушки",
+      "nodeCode": "ce6e6282198f81a6c5e63dd808a8eab4f"
+    },
+    {
+      "name": "Одежда и товары для новорожденных",
+      "nodeCode": "cb7d2b5a9ff839ad10ef93160e2989d65"
+    },
+    {
+      "name": "Принадлежности для кормления новорожденных",
+      "nodeCode": "c4ec9b05c697cef9dc3badb496a384112"
+    },
+    {
+      "name": "Для кошек",
+      "nodeCode": "c54afe28d98b07f5d15ba5451f9120a38"
+    },
+    {
+      "name": "Для собак",
+      "nodeCode": "c2e45c7483e4a8deb9afd21e72e17baf9"
+    },
+    {
+      "name": "Аксессуары для животных",
+      "nodeCode": "c261ab3ebb9299d6ee1534abefb302de7"
+    },
+    {
+      "name": "Витамины и добавки",
+      "nodeCode": "ccf36eb3818eb9823cfd221c4b6cb97cf"
+    },
+    {
+      "name": "Для других животных",
+      "nodeCode": "c9b940691bd7dd0a61a2036e835daa56f"
+    },
+    {
+      "name": "Для кошек",
+      "nodeCode": "cee32e2109baeeb7ece5c9082936e9a5f"
+    },
+    {
+      "name": "Для собак",
+      "nodeCode": "cfce29d2e849e361031d9c2b31a3623e8"
+    },
+    {
+      "name": "Туалетные принадлежности",
+      "nodeCode": "c3aed9bbe4435a95b1eed6ae0dfb40300"
+    },
+    {
+      "name": "Диабетические продукты",
+      "nodeCode": "c390a2392c3216721fec07bc87925b494"
+    },
+    {
+      "name": "Диетические продукты",
+      "nodeCode": "c32f1c210d71340e4b68c2a401f9c6114"
+    },
+    {
+      "name": "Продукты без глютена",
+      "nodeCode": "cc9fbe409f53c17c1c42d6c1770810015"
+    },
+    {
+      "name": "Продукты растительного происхождения",
+      "nodeCode": "ce4f5b46502a9752df85a8d8258084d08"
+    },
+    {
+      "name": "Прочие продукты функционального питания",
+      "nodeCode": "cb413652d91df3c1d2213038623c360e6"
+    },
+    {
+      "name": "Дезодоранты",
+      "nodeCode": "c50fd74cf4e17766701616d257128fad7"
+    },
+    {
+      "name": "Женская интимная гигиена",
+      "nodeCode": "c95c1af8fbf18b06ab8a28507ce348d3b"
+    },
+    {
+      "name": "Косметические наборы",
+      "nodeCode": "c73a4094eb826e0d9337874819a5fcc52"
+    },
+    {
+      "name": "Личная гигиена",
+      "nodeCode": "c414a32184c5b7d019040611cf908ea18"
+    },
+    {
+      "name": "Средства для ванны и душа",
+      "nodeCode": "c031fda29d8f075cfc400956e79471e65"
+    },
+    {
+      "name": "Средства для женского бритья",
+      "nodeCode": "cea65e1472df4877f16858c0905d19c9a"
+    },
+    {
+      "name": "Средства для мужского бритья",
+      "nodeCode": "c49253d97b9bfe4da397ee5ed48c7454f"
+    },
+    {
+      "name": "Средства по уходу за руками и ногами",
+      "nodeCode": "c25f8679080b7494d4b3605c0d81f0634"
+    },
+    {
+      "name": "Универсальные гигиенические средства",
+      "nodeCode": "c883805b1c6e98c301b8f677c558adcbb"
+    },
+    {
+      "name": "Уход за волосами",
+      "nodeCode": "ccae88cd6b859d000c120ca66112dc3e9"
+    },
+    {
+      "name": "Уход за лицом",
+      "nodeCode": "c570bdfb2a5e3985e04377ce107da5631"
+    },
+    {
+      "name": "Уход за телом",
+      "nodeCode": "c6cd17cd6e49afd3694b60fe3d2b2d5b9"
+    },
+    {
+      "name": "Фармацевтические товары",
+      "nodeCode": "c756138e3796dda4b9b648af7e39c6b43"
+    },
+    {
+      "name": "Инсектициды и репелленты",
+      "nodeCode": "c3f92e9f72ea2ef8ff7d29402506a6e09"
+    },
+    {
+      "name": "Освежители воздуха",
+      "nodeCode": "c61b4dedc0153d42db9f12f592a6e9ab7"
+    },
+    {
+      "name": "Средства для мытья посуды",
+      "nodeCode": "ce08a4ffe3bbc01a3dda6d9ae6e52516a"
+    },
+    {
+      "name": "Средства для стирки и ухода за тканью",
+      "nodeCode": "c2ddba3fc318fce26641cab696fe484d7"
+    },
+    {
+      "name": "Средства по уходу за обувью",
+      "nodeCode": "c4099a5dfd56f074a61e76f9229a3f7fd"
+    },
+    {
+      "name": "Чистящие и моющие средства",
+      "nodeCode": "ccf3690f780538e9fb83093a504f4c0d3"
+    },
+    {
+      "name": "Аксессуары для смартфонов",
+      "nodeCode": "cf7e61a8b5ab435c61135436736411046"
+    },
+    {
+      "name": "Аудио, видео, цифровая техника и аксессуары",
+      "nodeCode": "c12b5c29141ee2b3a502d31769eb6a6fd"
+    },
+    {
+      "name": "Дополнительное оборудование",
+      "nodeCode": "c534f6a7f5a42d481608d9adc1f3af609"
+    },
+    {
+      "name": "Климатическая техника",
+      "nodeCode": "c5d133e0d7f197734527541079e16640f"
+    },
+    {
+      "name": "Компьютерная техника",
+      "nodeCode": "c56636ab5346f29bc4ba3ac1d3ae94b12"
+    },
+    {
+      "name": "Красота и здоровье",
+      "nodeCode": "c1f62a76b0004ff0417e27fa661765b76"
+    },
+    {
+      "name": "Мелкая бытовая техника для готовки",
+      "nodeCode": "cd2a29eff91d543a687af7f7ad6754aac"
+    },
+    {
+      "name": "Подготовка и измельчение продуктов",
+      "nodeCode": "ca39d9095322bcd9686c3141661cd0e3d"
+    },
+    {
+      "name": "Приготовление напитков",
+      "nodeCode": "c2f0def9080b28594fed248a40873e7a8"
+    },
+    {
+      "name": "Техника для дома",
+      "nodeCode": "c1f91ce657543b474a5ce285ee7ba8f73"
+    },
+    {
+      "name": "Для ванной комнаты и туалета",
+      "nodeCode": "c81e6b2d0251d5e18ae76133d23893db8"
+    },
+    {
+      "name": "Для детской",
+      "nodeCode": "c8522a9dba9ba44eca1779ccea236db95"
+    },
+    {
+      "name": "Текстиль для кухни",
+      "nodeCode": "c4256335687f8fcf51154c74341e67669"
+    },
+    {
+      "name": "Прочий текстиль",
+      "nodeCode": "ceb4aa95b071ff0c46d6678182179b358"
+    },
+    {
+      "name": "Для спальни и гостиной",
+      "nodeCode": "cc4df0a10d0db84b1808d56cc8598124e"
+    },
+    {
+      "name": "Полотенца",
+      "nodeCode": "c780e45d0ac675fa6c88820ecd8a45e6a"
+    },
+    {
+      "name": "Аксессуары и галантерея",
+      "nodeCode": "c7700403042d3da0b4e9e639dca5bc646"
+    },
+    {
+      "name": "Детская школьная одежда",
+      "nodeCode": "cfdafa19af77369f54572b6a7f7e6b0ab"
+    },
+    {
+      "name": "Домашняя одежда и обувь",
+      "nodeCode": "c5ce91418ae6e66ef373c82f726698944"
+    },
+    {
+      "name": "Женская одежда и обувь",
+      "nodeCode": "c14aa287dc1934fc1a16aee0f70a0f7b9"
+    },
+    {
+      "name": "Женское нижнее белье",
+      "nodeCode": "c06c3da1d4de506d670cb303bb6777c61"
+    },
+    {
+      "name": "Мужская одежда и обувь",
+      "nodeCode": "c7a0b40f2a4330546f736b977004e366f"
+    },
+    {
+      "name": "Мужское нижнее белье",
+      "nodeCode": "c2f9f155e60560c9114efd34899898b0a"
+    },
+    {
+      "name": "Обувь для дачи",
+      "nodeCode": "c99872f1a8ef6a884902d3dd2d3e29b47"
+    },
+    {
+      "name": "Одежда и обувь для девочек",
+      "nodeCode": "c0643e940ee1b5298a1957242ed7cb519"
+    },
+    {
+      "name": "Одежда и обувь для мальчиков",
+      "nodeCode": "c00ae9ef74adb6ab04373d7f64ed72460"
+    },
+    {
+      "name": "Прочая детская одежда",
+      "nodeCode": "cbbccc767ec725ff946cd6236f3fce0cc"
+    },
+    {
+      "name": "Багаж",
+      "nodeCode": "cd10433d3f5cc03880e2c888c35e42499"
+    },
+    {
+      "name": "Велосипеды и мототехника",
+      "nodeCode": "cf240467d3087f820d396a0b1b1becd63"
+    },
+    {
+      "name": "Зимние виды спорта",
+      "nodeCode": "ccd51bbe3dd6d17ccef13600cb1953834"
+    },
+    {
+      "name": "Настольные игры",
+      "nodeCode": "c230969baaae936ad91cdbcc37419bf87"
+    },
+    {
+      "name": "Ролики, скейтборды, самокаты",
+      "nodeCode": "c7bb3b300a39bb93a5c425d4da17745e7"
+    },
+    {
+      "name": "Товары для активных видов спорта",
+      "nodeCode": "c7300636c3a0cdd11ba1723e12e1e38f7"
+    },
+    {
+      "name": "Товары для бани",
+      "nodeCode": "c65d4ea2c86d5de5d66013d5d8d66b8a5"
+    },
+    {
+      "name": "Товары для плавания",
+      "nodeCode": "c118ec1a797d5e2bd5adb5174f1df5bb1"
+    },
+    {
+      "name": "Товары для рыбалки",
+      "nodeCode": "c52250baa83042c390fe470aaeb4127f7"
+    },
+    {
+      "name": "Товары для туризма",
+      "nodeCode": "cf8b8bb6f87e457aea42d521a2d2c13db"
+    },
+    {
+      "name": "Фитнес и силовые виды спорта",
+      "nodeCode": "c6509185e14d2cf5dfd6d53b9bc30130d"
+    },
+    {
+      "name": "Спички, зажигалки",
+      "nodeCode": "c8604dedaedf8fcfdacd21bf1168f73d0"
+    },
+    {
+      "name": "Садовая мебель",
+      "nodeCode": "c466c1059d9811a28691f0e3ccbbd97c8"
+    },
+    {
+      "name": "Садовые инструменты",
+      "nodeCode": "c28bb0b7976c0fbb1cefb81c3427015f7"
+    },
+    {
+      "name": "Садовый декор",
+      "nodeCode": "cd6d5fe95380886b773f9e9555257cac4"
+    },
+    {
+      "name": "Семена и растения",
+      "nodeCode": "c2552cf21fd356b0d466c29ca90c9ce0e"
+    },
+    {
+      "name": "Товары для пикника",
+      "nodeCode": "c05582d393432df74889ddd7f2393cd5c"
+    },
+    {
+      "name": "Средства от насекомых и грызунов",
+      "nodeCode": "cf79c2624f62aa2f2e42164986e30ef9e"
+    },
+    {
+      "name": "Автоаксессуары",
+      "nodeCode": "c52b54dfbff4bc00320dfe092decc53b9"
+    },
+    {
+      "name": "Автопринадлежности и запчасти",
+      "nodeCode": "ca612093a135f220886a1d750d56561b4"
+    },
+    {
+      "name": "Товары для мойки",
+      "nodeCode": "cc97a03d5763bd1cb3aef2179135fb255"
+    },
+    {
+      "name": "Шины и диски",
+      "nodeCode": "c7ca9acc78836063b3605d4079899d7c0"
+    },
+    {
+      "name": "Эксплуатационные жидкости",
+      "nodeCode": "cc84475863a5d7f4a5169fcddf7f6b508"
+    },
+    {
+      "name": "Букеты и цветы в горшках",
+      "nodeCode": "c50e0200e6ecadc19c1046ef33c9ca405"
+    },
+    {
+      "name": "Для офиса",
+      "nodeCode": "c31cfeb9bc89c2313f8f53882c412afaa"
+    },
+    {
+      "name": "Для учебы",
+      "nodeCode": "c94768e7cc7c5a927dc8f16fc4766e975"
+    },
+    {
+      "name": "Для хобби, творчества",
+      "nodeCode": "ce1d445ba012433f67b21f2351f2569a2"
+    },
+    {
+      "name": "Печатная продукция",
+      "nodeCode": "cf3858ff1b95816d8e330d0134cf5283c"
+    },
+    {
+      "name": "Письменные принадлежности",
+      "nodeCode": "c964eb0745fb433edba5ea74d3a1ad9f6"
+    },
+    {
+      "name": "Прочая канцелярия",
+      "nodeCode": "cd2d89f182cae918d931c5a8dac80d63d"
+    }
+  ]
+}
